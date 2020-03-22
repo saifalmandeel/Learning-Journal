@@ -1,6 +1,7 @@
 # Welcome to My Page
 
-***My name  Saif, I graduated with a bachelor degree in software engineering in 2014, I never worked in my major, I would like to take more courses and materials with you in this field, to get a new job.***	
+***My name  Saif, I graduated in 2014 with a bachelor degree in software engineering, I never worked in my major, I would like to take more courses and materials with you in this field, to get a new job.***	
+
 
 ## Growth Mindset 
 
@@ -12,5 +13,6 @@ People who aren't good at something, they believe skills are born and are not go
 * View challenges as opportunities.
 * Make a new goal for every goal accomplished. 
 * Reward my self and others 
+
 
 [My GitHub](https://github.com/saifalmandeel) 
