@@ -1,6 +1,6 @@
 # Welcome to My Page
 
-***My name  Saif, I graduated in 2014 with a bachelor degree in software engineering, I never worked in my major, I would like to take more courses and materials Code Fellows you in this field, to get a new job.***	
+***My name  Saif, I graduated with a bachelor degree in software engineering, I never worked in my major, I learn more courses and materials, to improve my self in this field, to get a new job.***	
 
 
 ## Growth Mindset 
