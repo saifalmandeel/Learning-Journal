@@ -1,37 +1,16 @@
-## Welcome to My Page
+# Welcome to My Page
 
-You can use the [editor on GitHub](https://github.com/saifalmandeel/saif01/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+***My name  Saif, I graduated with a bachelor degree in software engineering in 2014, I never worked in my major, I would like to take more courses and materials with you in this field, to get a new job.***	
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Growth Mindset 
 
-### Markdown
+**I believe that skills and intelligence are growth and developed. 
+People who are good at something, they believe skills are built - are good because they built that ability.
+People who aren't good at something, they believe skills are born and are not good because they haven't done the work.** 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## I keep myself in a growth mindset when I 
+* View challenges as opportunities.
+* Make a new goal for every goal accomplished. 
+* Reward my self and others 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saifalmandeel/saif01/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[My GitHub](https://github.com/saifalmandeel) 
