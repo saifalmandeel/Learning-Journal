@@ -5,9 +5,11 @@
 
 ## Growth Mindset 
 
-**I believe that skills and intelligence are growth and developed. 
-People who are good at something, they believe skills are built - are good because they built that ability.
-People who aren't good at something, they believe skills are born and are not good because they haven't done the work.** 
+**I believe that skills and intelligence can be grown and developed.**  
+
+**People who are good at something, they are good because they built that ability.** 
+
+**People who aren't good at something, they are not good because they haven't spent time and effort to build that skill.** 
 
 ## I keep myself in a growth mindset when I 
 * View challenges as opportunities.
