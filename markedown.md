@@ -1,18 +1,14 @@
 # Markdown syntax.
------------
-
 
 ```
 syntax
 **What is Markdown: Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.**
 ```
 **What is Markdown: Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.**
-
  <br />
-
 In example above we used this syntax ```** **``` for Bold
 
-
+______________________________________________________
 ```
 ## What is used for?
 * Readme files (GitHub, etc).
@@ -27,7 +23,7 @@ In example above we used this syntax ```** **``` for Bold
  
 In example above we used this syntax ``` * ``` for list
 <br />
-
+_________________________________________________________
 ## Markdown Editors
 ```
 * Text Editor Extension (vscode, Atom, etc)
@@ -43,7 +39,7 @@ In example above we used this syntax ``` * ``` for list
 * Typora
 
  <br />
- 
+ ________________________________________________________
 ## Some Markdown syntax Examples
 
 ### Headings
