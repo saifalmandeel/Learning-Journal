@@ -11,10 +11,13 @@
 
 **People who aren't good at something, they are not good because they haven't spent time and effort to build that skill.** 
 
+
 ## I keep myself in a growth mindset when I 
 * View challenges as opportunities.
 * Make a new goal for every goal accomplished. 
 * Reward my self and others 
+
+
 
 
 [My GitHub](https://github.com/saifalmandeel) 
