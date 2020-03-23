@@ -1,10 +1,6 @@
 # Markdown syntax.
 -----------
 
-## What is Markdown
-
-
-
 ### Bold
 **Example** <br />
 ```
@@ -81,7 +77,10 @@ syntax
 
 **Example** <br />
 
-```[My Github](https://github.com/saifalmandeel)``` <br />
+```syntax
+[My Github](https://github.com/saifalmandeel)
+```
+<br />
 
 [My Github](https://github.com/saifalmandeel)
 
@@ -90,10 +89,13 @@ syntax
 ```
 syntax
 
-![alt text](http://pngimg.com/uploads/github/github_PNG53.png)
-``` 
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
+```
+
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
 <br />
-![alt text](http://pngimg.com/uploads/github/github_PNG53.png)<br />
 
 
 ### Task List 
