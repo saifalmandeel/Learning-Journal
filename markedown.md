@@ -6,8 +6,12 @@
 syntax
 **What is Markdown: Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.**
 ```
-** What is Markdown: Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.**
------------------
+**What is Markdown: Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.**
+
+ <br />
+
+In example above we used this syntax ```** **``` for Bold
+
 
 ```
 ## What is used for?
@@ -19,6 +23,8 @@ syntax
 * Readme files (GitHub, etc).
 * Forum & Blog posts.
 * Used in many static site generations. 
+ <br />
+In example above we used this syntax ``` * ``` for list
 
 ## Markdown Editors
 ```
@@ -34,7 +40,9 @@ syntax
 * MarkdownPad 2
 * Typora
 
-### Some Markdown syntax Examples
+ <br />
+ 
+## Some Markdown syntax Examples
 
 ### Headings
 **Example** <br />
@@ -56,6 +64,15 @@ syntax
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
+
+### For New line  
+ <br />
+```
+
+Readme files (GitHub, etc). <br /> Forum & Blog posts. <br /> Used in many static site generations. 
+```
+
+**Example**
 
 ### List
 
