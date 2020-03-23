@@ -125,9 +125,9 @@ syntax
 ```syntax
 [My Github](https://github.com/saifalmandeel)
 ```
-<br />
 
 [My Github](https://github.com/saifalmandeel)
+<br />
 
 ### Images 
 
@@ -137,7 +137,6 @@ syntax
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
 ```
-
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
 <br />
