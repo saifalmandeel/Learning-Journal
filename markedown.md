@@ -66,12 +66,11 @@ syntax
 ###### Heading 6
 
 ### For New line  
- <br />
-```
 
+```
 Readme files (GitHub, etc). <br /> Forum & Blog posts. <br /> Used in many static site generations. 
 ```
-
+Readme files (GitHub, etc). <br /> Forum & Blog posts. <br /> Used in many static site generations. <br />
 **Example**
 
 ### List
