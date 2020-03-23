@@ -1,18 +1,45 @@
 # Markdown syntax.
 -----------
 
-### Bold
-**Example** <br />
+
 ```
 syntax
-**Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.**
+**What is Markdown: Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.**
 ```
-**Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.**
+** What is Markdown: Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.**
 -----------------
 
+```
+## What is used for?
+* Readme files (GitHub, etc).
+* Forum & Blog posts.
+* Used in many static site generations. 
+```
+## What is used for?
+* Readme files (GitHub, etc).
+* Forum & Blog posts.
+* Used in many static site generations. 
+
+## Markdown Editors
+```
+* Text Editor Extension (vscode, Atom, etc)
+* MarkPad
+* HarooPad
+* MarkdownPad 2
+* Typora
+```
+* Text Editor Extension (vscode, Atom, etc)
+* MarkPad
+* HarooPad
+* MarkdownPad 2
+* Typora
+
+### Some Markdown syntax Examples
 
 ### Headings
 **Example** <br />
+
+
 ```
 syntax
 # Heading 1
