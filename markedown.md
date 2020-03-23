@@ -24,7 +24,9 @@ In example above we used this syntax ```** **``` for Bold
 * Forum & Blog posts.
 * Used in many static site generations. 
  <br />
+ 
 In example above we used this syntax ``` * ``` for list
+<br />
 
 ## Markdown Editors
 ```
@@ -67,11 +69,12 @@ syntax
 
 ### For New line  
 
+**Example**
 ```
 Readme files (GitHub, etc). <br /> Forum & Blog posts. <br /> Used in many static site generations. 
 ```
 Readme files (GitHub, etc). <br /> Forum & Blog posts. <br /> Used in many static site generations. <br />
-**Example**
+
 
 ### List
 
