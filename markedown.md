@@ -1,3 +1,4 @@
+[My Learning Journal](README.md)
 # Markdown syntax.
 
 ```
@@ -164,7 +165,7 @@ syntax
 * [ ] Task 2
 * [x] Task 3
 
-
+[My Learning Journal](README.md)
 
 
 
