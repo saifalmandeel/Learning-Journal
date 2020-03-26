@@ -23,7 +23,7 @@ ___
 * Make a new goal for every goal accomplished. 
 * Reward my self and others 
 
-My links
+
 
 ___
 * [My GitHub](https://github.com/saifalmandeel) 
