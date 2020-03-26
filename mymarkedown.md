@@ -1,9 +1,8 @@
  
 
-|  [Home](README.md) | [What is Markdown](mymarkedown.md "Markdown") | [The Text Editor vs Terminal (CLI) vs (IDE).](terminal.md)    |
+|  [Home](README.md)  |  [What is Markdown](mymarkedown.md "Markdown")   |      [The Text Editor vs Terminal (CLI) vs (IDE).](terminal.md) |
 |----------|----------|:-------------:|
- 
- </br>
+
  
 # Markdown syntax.
 
@@ -12,7 +11,7 @@ syntax
 **What is Markdown: Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.**
 ```
 **What is Markdown: Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.**
- <br />
+
  
 The example above we used this syntax ``` ** ** ``` for Bold
 
@@ -52,7 +51,7 @@ _________________________________________________________
 ## Some Markdown syntax Examples
 
 ### Headings
-**Example** <br />
+**Example** 
 
 
 ```
@@ -78,12 +77,12 @@ syntax
 ```
 Readme files (GitHub, etc). <br /> Forum & Blog posts. <br /> Used in many static site generations. 
 ```
-Readme files (GitHub, etc). <br /> Forum & Blog posts. <br /> Used in many static site generations. <br />
+Readme files (GitHub, etc). <br /> Forum & Blog posts. <br /> Used in many static site generations. 
 
 ______________________________________________________
 ### List
 
-**Example** <br />
+**Example** 
 ```
 syntax
 * apples
@@ -113,7 +112,7 @@ ______________________________________________________
 
 ### Tables 
 
-**Example** <br />
+**Example** 
 ```
 syntax
 | Name     | Age|
