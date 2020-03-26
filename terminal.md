@@ -48,7 +48,7 @@ computers, the text editor that comes with your computer is called,
 “Text Edit.” On Windows computers, the text editor that comes with
 your computer is called, “Notepad.”
 
-### Some Text Editer 
+### Some Text Editor 
 
 * VS Code
 * NotePad
