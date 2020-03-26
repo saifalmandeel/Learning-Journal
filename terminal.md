@@ -3,7 +3,7 @@
 |  [Home](README.md) |[What is Markdown](mymarkedown.md "Markdown")   |      [The Text Editor vs Terminal (CLI) vs (IDE).](terminal.md)    |
 |----------|----------|:-------------:|
  
- </br>
+
 
 # The Text Editor vs Terminal (CLI) vs (IDE).
 
