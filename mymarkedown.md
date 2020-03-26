@@ -1,5 +1,3 @@
- 
-
 |  [Home](README.md)  |  [What is Markdown](mymarkedown.md "Markdown")   |      [The Text Editor vs Terminal (CLI) vs (IDE).](terminal.md) |
 |----------|----------|:-------------:|
 
@@ -10,6 +8,7 @@
 syntax
 **What is Markdown: Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.**
 ```
+
 **What is Markdown: Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.**
 
  
@@ -26,10 +25,10 @@ ______________________________________________________
 * Readme files (GitHub, etc).
 * Forum & Blog posts.
 * Used in many static site generations. 
- <br />
  
-The example above we used this syntax ``` * ``` for list
-<br />
+ 
+The example above we used this syntax ``` * ``` for list.
+
 _________________________________________________________
 ## Markdown Editors
 ```
@@ -130,7 +129,7 @@ ______________________________________________________
 
 ### Link 
 
-**Example** <br />
+**Example**
 
 ```syntax
 [My Github](https://github.com/saifalmandeel)
@@ -138,7 +137,7 @@ ______________________________________________________
 
 [My Github](https://github.com/saifalmandeel)
 
-<br />
+
 
 ______________________________________________________
 
@@ -152,13 +151,12 @@ syntax
 ```
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
-<br />
 
 ______________________________________________________
 
 ### Task List 
 
-**Example** <br />
+**Example** 
 ```
 syntax
 * [x] Task 1
@@ -169,13 +167,4 @@ syntax
 * [x] Task 1
 * [ ] Task 2
 * [x] Task 3
-
-[My Learning Journal](README.md)
-
-
-
-
-
-
-
 
