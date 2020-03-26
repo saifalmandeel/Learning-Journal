@@ -1,4 +1,4 @@
-# The Text Editor vs Terminal (CLI) vs IDE.
+# The Text Editor vs Terminal (CLI) vs (IDE).
 
 **********************
 
