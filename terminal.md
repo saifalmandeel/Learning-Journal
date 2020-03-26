@@ -1,6 +1,6 @@
  |  [Home](README.md)  |  [What is Markdown](saif.md)   |      [The Text Editor vs Terminal (CLI) vs (IDE).](terminal.md) |
 
-[Markdown](mymarkedown.md)
+
  
 
 # The Text Editor vs Terminal (CLI) vs (IDE).
