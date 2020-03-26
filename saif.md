@@ -1,7 +1,8 @@
-|  [Home](README.md)  |  [What is Markdown](mymarkedown.md)   |      [The Text Editor vs Terminal (CLI) vs (IDE).](terminal.md) |
+|  [Home](README.md)  |  [ [What is Markdown]](saif.md)   |      [The Text Editor vs Terminal (CLI) vs (IDE).](terminal.md) |
 
-
- [sss](saif.md)
+[Markdown](mymarkedown.md)
+ 
+ 
 # Markdown syntax.
 
 ```
