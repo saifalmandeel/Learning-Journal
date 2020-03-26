@@ -1,4 +1,4 @@
-|  [Home](README.md) |[What is Markdown](markedown.md "Markdown")   |      [The Text Editor vs Terminal (CLI) vs (IDE).](terminal.md)    |
+|  [Home](README.md) |[What is Markdown](mymarkedown.md "Markdown")   |      [The Text Editor vs Terminal (CLI) vs (IDE).](terminal.md)    |
 |----------|----------|:-------------:|
 
 </br>
