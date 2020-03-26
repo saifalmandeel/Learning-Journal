@@ -1,4 +1,10 @@
 # Welcome to My Learning Journal
+ 
+
+|[What is Markdown](markedown.md "Markdown")   |      [The Text Editor vs Terminal (CLI) vs (IDE).](terminal.md)    |
+|----------|:-------------:|
+ 
+ </br>
 
 ***My name  Saif, I graduated with a bachelor degree in software engineering, I never worked in my major, I learn more courses and materials, to improve my self in this field, to get a new job.***	
 
