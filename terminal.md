@@ -51,9 +51,7 @@ your computer is called, “Notepad.”
 ### Some Text Editer 
 
 * VS Code
-* Notepad
-* Text Edit
-* NotePad++
+* NotePad
 * Attom
 
 ____________________
