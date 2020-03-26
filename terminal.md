@@ -52,7 +52,7 @@ your computer is called, “Notepad.”
 
 * VS Code
 * NotePad
-* Attom
+* Atom
 
 ____________________
 
