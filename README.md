@@ -1,8 +1,8 @@
 # Welcome to My Learning Journal
  
 
-|[What is Markdown](markedown.md "Markdown")   |      [The Text Editor vs Terminal (CLI) vs (IDE).](terminal.md)    |
-|----------|:-------------:|
+|  [Home](README.md) |[What is Markdown](markedown.md "Markdown")   |      [The Text Editor vs Terminal (CLI) vs (IDE).](terminal.md)    |
+|----------|----------|:-------------:|
  
  </br>
 
