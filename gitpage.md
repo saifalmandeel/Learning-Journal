@@ -6,7 +6,7 @@ Git is a distributed version-control system for tracking changes in source code 
 It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
 Its goals include speed, data integrity, and support for distributed, non-linear workflows.
 
-## Basic  commands line 
+## Some Basic commands that I learned 
 
 |   Git task    |   Notes    |   Git commands    |
 |-------|-------|-------|
