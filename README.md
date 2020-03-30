@@ -1,5 +1,5 @@
-| [Home](README.md) | [Markdown](mdown.md)   |      [Text Editor vs (CLI) vs (IDE)](terminal.md) | [Git](https://github.com/saifalmandeel/Learning-Journal/blob/master/test.html) |[HTML](https://github.com/saifalmandeel/Learning-Journal/blob/master/folder/index.html) |
- test.html
+| [Home](README.md) | [Markdown](mdown.md)   |      [Text Editor vs (CLI) vs (IDE)](terminal.md) | [Git](gitpage.md) |[HTML](https://github.com/saifalmandeel/Learning-Journal/blob/master/folder/index.html) |
+
 # Welcome to My Learning Journal 
  
 
