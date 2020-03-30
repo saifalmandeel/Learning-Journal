@@ -20,6 +20,7 @@ ___
 ___
 
 ## I keep myself in a growth mindset when I 
+
 * View challenges as opportunities.
 * Make a new goal for every goal accomplished. 
 * Reward my self and others 
