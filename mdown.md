@@ -1,4 +1,4 @@
-|  [Home](README.md)  |   [What is Markdown](mdown.md)   |      [The Text Editor vs Terminal (CLI) vs (IDE).](terminal.md) |
+|  [Home](README.md)  |   [Markdown](mdown.md)   |      [Text Editor vs (CLI) vs (IDE)](terminal.md) | [Git](gitpage.md) |
 
  
  
