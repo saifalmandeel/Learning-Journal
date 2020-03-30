@@ -1,5 +1,4 @@
-|  [Home](README.md)  |   [Markdown](mdown.md)   |      [Text Editor vs (CLI) vs (IDE)](terminal.md) | [Git](gitpage.md) | [html](index)|
-
+| [Home](README.md) | [Markdown](mdown.md)   |      [Text Editor vs (CLI) vs (IDE)](terminal.md) | [Git](gitpage.md) | [HTML](index.html) |
  
  
 # Markdown syntax.
