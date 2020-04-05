@@ -50,6 +50,7 @@ _________________________________________________________
 ## Some Markdown syntax Examples
 
 ### Headings
+
 **Example** 
 
 
