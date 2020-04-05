@@ -1,6 +1,4 @@
-|  [Home](README.md)  |   [Markdown](mdown.md)   |      [Text Editor vs (CLI) vs (IDE)](terminal.md) | [Git](gitpage.md) |
-
- 
+| [Home](README.md) | [Markdown](mdown.md)   |      [Text Editor vs (CLI) vs (IDE)](terminal.md) | [Git](gitpage.md) |[HTML](https://github.com/saifalmandeel/Learning-Journal/blob/master/folder/index.html) |
  
 # Markdown syntax.
 
