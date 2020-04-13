@@ -19,11 +19,11 @@
 
 | HTML  | HTML5  |
 |---|---|
-| <applet>  | Changed to <object>  |
-| <dir>  |  Changed to <ul> |
-|  <frame> | Removed  |
-| <acronym>  | Changed to <abbr>  |
-| <font>  |  No new tag. CSS is used for this |
+| ```<applet>```  | Changed to ```<object>```  |
+| ```<dir>```  |  Changed to ```<ul>``` |
+|  ```<frame>``` | Removed  |
+| ```<acronym>```  | Changed to ```<abbr>```  |
+| ```<font>```  |  No new tag. CSS is used for this |
 
 
 
